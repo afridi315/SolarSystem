@@ -1,4 +1,4 @@
 # SolarSystem
 Design concept for our solar system
-![App Screenshot](/images/SolarSystem.png)
+![App Screenshot](/SolarSystem.png)
 Format: ![Alt Text](url)
